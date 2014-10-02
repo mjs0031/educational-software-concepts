@@ -1,0 +1,32 @@
+iPhone 6 Sensor List
+
+- Barometer / Air pressure sensors
+	- Used for measuring altitude and weather 
+
+- Camera (Front and back)
+	- Slo-mo (120 fps or 240 fps)
+	- Time lapse video
+
+- TouchID
+	- Basically a finger print scanner 
+
+- Three-axis gyro
+
+- Accelerometer
+
+- Proximity Sensor 
+	- Make backlight turn off when your face is held up to it
+
+- Ambient Light Sensor 
+
+- Magnetometer
+	- is used to measure the strength and/or direction of the magnetic field in the vicinity of the device
+
+- Bluetooth 
+
+- WiFi
+
+- Structure Sensor (Not included) (http://structure.io) 
+	- This is pretty cool, basically its a little camera you put on the back of your iOS device and it can digitally map the room. They already have some example where the screen shows virtual objects displayed in the real world. I.E. Virtual balls rolling under real tables. 
+
+
